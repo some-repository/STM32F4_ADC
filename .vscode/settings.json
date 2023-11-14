@@ -1,5 +1,10 @@
 {
     "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
-    "C_Cpp.errorSquiggles": "enabled",
-    "makefile.makePath": "F:\\CodeBlocks\\CodeBlocks\\MinGW\\bin"
+    "C_Cpp.errorSquiggles": "disabled",
+    "makefile.makePath": "",
+    "files.associations": {
+        "stm32f4xx_ll_cortex.h": "c",
+        "stm32f401xc.h": "c",
+        "stm32f4xx_ll_adc.h": "c"
+    }
 }
